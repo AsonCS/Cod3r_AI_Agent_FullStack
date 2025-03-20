@@ -1,3 +1,15 @@
 {
-	"cSpell.words": ["datasource", "postgresql"]
+	"code-runner.executorMap": {
+		"typescript": "npx tsx"
+	},
+	"cSpell.words": [
+		"AVANCADO",
+		"datasource",
+		"descricao",
+		"INTERMEDIARIO",
+		"nivel",
+		"Nivel",
+		"postgresql",
+		"repositorio"
+	]
 }

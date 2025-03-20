@@ -1,4 +1,4 @@
-id,name,highlight,description,image
+id,nome,destaque,descricao,imagem
 1,HTML,false,Linguagem de marcação para estruturação de páginas web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/html.svg
 2,CSS,false,Linguagem de estilos para definição do design e layout das páginas web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/css.svg
 3,JavaScript,false,Linguagem de programação para interatividade em páginas web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/javascript.svg
